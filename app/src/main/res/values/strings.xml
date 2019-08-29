@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WaffleStRecruting</string>
+    <string name="button_move_first">Move to First Activity</string>
+    <string name="text_first_activity">This is First Activity!</string>
+    <string name="button_move_second">Move to Second Activity</string>
+    <string name="button_move_third">Move to Third Activity</string>
+    <string name="text_second_activity">This is Second Activity!</string>
+    <string name="text_third_activity">This is Third Activity!</string>
+</resources>
