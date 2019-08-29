@@ -17,6 +17,7 @@
         android:layout_marginRight="16dp"
         android:onClick="moveToSecond"
         android:text="@string/button_move_second"
+        android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
