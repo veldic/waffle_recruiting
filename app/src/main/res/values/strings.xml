@@ -13,4 +13,5 @@
     <string name="text_first_activity_email2">or rsual@snu.ac.kr</string>
     <string name="button_second_activity_instagram">INSTAGRAM</string>
     <string name="button_second_activity_facebook">FACEBOOK</string>
+    <string name="text_first_activity_reason">지원동기 : 제가 와플에 지원하게 된 동기는 고등학교를 거치면서 C언어 코딩의 기초를 배우고 이를 통한 간단한 PS를 진행했지만 정작 실제 업무나 실생활에 필요한 개발에는 특별한 경험을 가진 적이 없었습니다. 해 본 것이라고는 아두이노 개발을 위한 간단한 코딩이 전부였습니다. 그래서 대학에 진학하고 난 후 이왕 코딩을 배웠으니 이 기술을 활용해서 뭔가 실생활에 도움되는 개발을 해보자! 하는 마음으로 와플 스튜디오에 지원하게 되었습니다.</string>
 </resources>
